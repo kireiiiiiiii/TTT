@@ -18,3 +18,9 @@ Icon\r
 .Trash-*
 .fseventsd
 
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
